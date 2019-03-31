@@ -55,7 +55,7 @@ Bad smells are:
 
 * Chapter 4 focues on building tests. Refactoring requires tests. If you want to refactor, you have to write tests.
 
-* Chapter 5: Author introduce catalogue of refactoring from this chapter. 
+* Author introduce catalogue of refactoring from Chapter 5 and Chapter 6. 
 
 ### Conclusion: 
 This book gives a lot of ideas to refactor code.
