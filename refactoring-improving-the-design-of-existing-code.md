@@ -55,7 +55,18 @@ Bad smells are:
 
 * Chapter 4 focues on building tests. Refactoring requires tests. If you want to refactor, you have to write tests.
 
-* Author introduce catalogue of refactoring from Chapter 5 and Chapter 6. 
+* Author introduce catalogue of refactoring from Chapter 5 and Chapter 6. In chapter 6 he shows use cases of extract function, inline function, extract variable, inline varaible, encapsulating variable, introduce parameter object if you are passing many parameters to function.
+
+* Chapter 7 starts with encapsulation. Even it says primitive data values can be encapsulated with Replace Primitive with Object. 
+
+* Chapter 8 focuses on Moving features. It could include move function, move field.
+
+* Chapter 9 focuses on organizing data. Split variable - Any variable with more than one responsibility should be replaced with multiple variables, one for each responsibility.
+
+* Chapter 10 focuses on Simplifying Conditional Logic. Consolidate conditional expression - Sequences combine with or, nested if statements combine with and. Nested conditional statements should be replaced with guard clauses. 
+
+* In last 2 chapters, he focuses on refactoring apis and dealing with inheritance. If a method returns a value but also has side effects, separate the query from the modifier. Suggests various ways to perform refactoring like replace query with parameter, replace constructor with factory function, 
+
 
 ### Conclusion: 
-This book gives a lot of ideas to refactor code.
+This book gives a lot of ideas to refactor code. Follow boy scoutt approach if you don't have bandwidth to refactror entire class.
