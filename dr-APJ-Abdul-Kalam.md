@@ -14,3 +14,33 @@ to seek the enemy of fulfilment within ourselves."
 
 There exists a divine power that can lift one up from confusion, misery, melancholy and failure, and guide one to one’s true place. And once an
 individual severs his emotional and physical bondage, he is on the road to freedom, happiness and peace of mind.
+
+“To succeed in life and achieve
+results, you must understand and master three mighty
+forces— desire, belief, and expectation.” “With faith, you can change your destiny,” he would say.
+
+Evoke people to “enjoy the action of giving”
+
+. Why aeronautics? Why not electrical engineering? Why not mechanical engineering? I myself would like to tell all novitiate engineering students that when they choose
+their specialization, the essential point to consider is whether the choice articulates their inner feelings and
+aspirations.
+
+“Let God be your hope, your stay, your guide and provide
+the lantern for your feet in your journey into the future,” said
+the introverted genius, bidding me adieu.
+
+Desire, when it stems from the heart and spirit, when it
+is pure and intense, possesses awesome electromagnetic energy. This energy is released into the ether each night, as the mind falls into the sleep state. Each morning it
+returns to the conscious state reinforced with the cosmic
+currents. That which has been imaged will surely and
+certainly be manifested. You can rely, young man, upon this ageless promise as surely as you can rely upon the
+eternally unbroken promise of sunrise... and of Spring. When the student is ready, the teacher will appear—
+How true! Here was the teacher to show the way to a
+student who had nearly gone astray! “Accept your destiny and go ahead with your life. You are not destined to
+become an Air Force pilot. What you are destined to
+become is not revealed now but it is predetermined. Forget
+this failure, as it was essential to lead you to your destined
+path. Search, instead, for the true purpose of your existence. Become one with yourself, my son! Surrender yourself to the wish of God,” Swamiji said.
+
+
+
