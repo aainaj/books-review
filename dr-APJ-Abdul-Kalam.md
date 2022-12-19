@@ -44,3 +44,13 @@ path. Search, instead, for the true purpose of your existence. Become one with y
 
 
 
+
+In My Words:
+- When you pray you leave your body and become a part of cosmos which doesn't discriminate people. When we fail in life, we blame our destiny. We never try to find our inner faults of character. We shouldn't accept that vision of destiny caused by fear, rather we should accept a vision that helps us to find out the enemy of fulfillment within ourselves. If we can seek reasons of failures  within ourself then we can conquer our suffering or failures.
+One should follow a routine, have life fundamentals. There exists a divine power in the universe which can guide one in correct direction. Once a person can separate his emotional and physical bondage, he is on the road to freedom, happiness and peace of mind. Once you decide to change the system, be ready to confront with problems. Current place may be housing your body but not your soul. Parents just have to make sure that the children are getting the right resources for their complete development. That’s all. Parents thoughts should end there. Selfishly wanting to make children do something is not the duty of the parents. They have no right to impose their thoughts on them. When the soul chooses its mortal/human parents, it is not sure about how the future will unveil. So, it’s up to the parents to recognize the soul within a child and secure what is already written. 
+
+Parents provide the nourishment that is needed for the body of a child. They keep the house tidy and healthy thus the soul can reside inside it without any problems. They should not think that they are housing souls as the supreme creator protects it. They nourish the external environment that is needed for the overall development of the spiritual self of a child.
+
+According to the god, every soul has the same house, this place is referred to as “the house of tomorrow.” It hints at the place where the soul merges after the body expires. This house cannot be visited as each soul has specific spots to fill in. Parents’ souls have their respective places in the divine spirit. A human being cannot even dream of that place. It is only unveiled after bodily death.
+
+To succeed in one's life, one need to master 3 forces i.e. desire, belief and expectation. You can aspire to beome whatever you wish. With faith, you can change your destiny. 
